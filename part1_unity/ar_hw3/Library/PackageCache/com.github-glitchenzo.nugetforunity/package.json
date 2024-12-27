@@ -1,0 +1,16 @@
+{
+  "name": "com.github-glitchenzo.nugetforunity",
+  "displayName": "NuGetForUnity",
+  "version": "4.1.1",
+  "description": "A NuGet Package Manager for Unity",
+  "unity": "2018.4",
+  "keywords": [
+    "nuget",
+    "unity"
+  ],
+  "license": "MIT",
+  "licensesUrl": "https://github.com/GlitchEnzo/NuGetForUnity/blob/master/LICENSE",
+  "changelogUrl": "https://github.com/GlitchEnzo/NuGetForUnity/releases",
+  "documentationUrl": "https://github.com/GlitchEnzo/NuGetForUnity",
+  "_fingerprint": "0c0ecf1ee5151259fa2b6f9bfaa0efbd89416b33"
+}
